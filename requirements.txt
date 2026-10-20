@@ -1,0 +1,19 @@
+# analysis stack
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+
+# notebooks
+jupyter
+nbconvert
+ipykernel
+
+# pcap parsing + evidence handling
+scapy>=2.5
+pyzipper>=0.3
+
+# web lookups (optional, for validation)
+requests
+
+# optional dashboard
+streamlit>=1.30
